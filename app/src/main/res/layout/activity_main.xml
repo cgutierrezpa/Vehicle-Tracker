@@ -10,7 +10,7 @@
     tools:context="com.uc3m.trippy.MainActivity">
 
     <ListView
-        android:id="@+id/list_todo"
+        android:id="@+id/list_trip"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 </RelativeLayout>
